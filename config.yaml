@@ -10,7 +10,7 @@ footer:
   enabled: true
 
 theme:
-  primary: "#343a40"
+  primary: "#343a40cc"
   accent: "#343a40"
 
 language:
