@@ -41,7 +41,7 @@ https://legalpage.org/unicornsurvey.com
 
 ## Contribute
 
-Hi! I'm excited that you are interested in contributing to legalpage.org. Whether it's reporting issues, updating the templates, or adding new languages, your help is welcome!
+Hi! I'm excited that you are interested in contributing to legalpage.org. Whether it's reporting an issue, updating the templates, or adding new languages, your help is welcome!
 
 ### Issue Reporting
 
