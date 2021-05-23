@@ -43,7 +43,7 @@ https://legalpage.org/unicornsurvey.com
 
 Hi! I'm excited that you are interested in contributing to legalpage.org. Whether it's reporting issues, updating the templates, or adding new languages, your help is welcome!
 
-### Issue Reporting Guidelines
+### Issue Reporting
 
 - Use [https://github.com/legalpageorg/legalpage/issues/new](https://github.com/legalpageorg/legalpage/issues/new) to create new issues.
 
