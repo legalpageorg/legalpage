@@ -2,7 +2,7 @@
 
 * Because creating a legal page sucks. 😜
 * Host a good-looking legal page in seconds.
-* Use our open-source, community-maintained templates.
+* Use open-source, community-maintained templates.
 * Give your customer full transparency on updates.
 
 ## How?
