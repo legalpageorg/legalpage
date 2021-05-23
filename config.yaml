@@ -14,7 +14,7 @@ theme:
   primary: '#ff0000'
   accent: '#00ff00'
 
-language:
+i18n:
   default: en
 
 pages:
@@ -29,7 +29,6 @@ pages:
 
 - name: Imprint
   file: imprint.md
-
 
 
 placeholder:
