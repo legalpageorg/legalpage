@@ -2,7 +2,7 @@
 
 * Because creating a legal page sucks. 😜
 * Host a good-looking legal page in seconds.
-* Use open-source, community-maintained templates.
+* Community-maintained templates.
 * Give your customer full transparency on updates.
 
 ## How?
@@ -39,5 +39,16 @@ https://legalpage.org/YOUR-DOMAIN.COM
 
 https://legalpage.org/unicornsurvey.com
 
+## Contribute
+
+Hi! I'm excited that you are interested in contributing to legalpage.org. Whether it's reporting issues, updating the templates, or adding new languages, your help is welcome!
+
+## Issue Reporting Guidelines
+
+- Use [https://github.com/legalpageorg/legalpage/issues/new](https://github.com/legalpageorg/legalpage/issues/new) to create new issues.
+
+## Pull Request Guidelines
+
+- The `master` branch is just a snapshot of the latest stable release. All development should be done in dedicated branches. **Do not submit PRs against the `master` branch.**
 
 
