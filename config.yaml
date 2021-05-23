@@ -7,12 +7,11 @@ header:
   enabled: true
   
 footer:
-  text: "Proudly served by LegalPage.org"
   enabled: true
 
 theme:
-  primary: '#ff0000'
-  accent: '#00ff00'
+  primary: "#343a40"
+  accent: "#343a40"
 
 language:
   default: en
@@ -29,7 +28,6 @@ pages:
 
 - name: Imprint
   file: imprint.md
-
 
 placeholder:
  SERVICE: https://legalpage.org
