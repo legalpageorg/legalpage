@@ -1,7 +1,7 @@
 ## Why?
 
 * Because creating a legal page sucks. 😜
-* Host a good looking legal page in seconds.
+* Host a good-looking legal page in seconds.
 * Use our templates.
 * Give your customer full transparency on updates.
 
@@ -30,7 +30,7 @@ You can freely modify the templates and even add additional pages to your legal 
 
 ## Done 🎉
 
-Congrats your legal page is now available at (might take a few miutes): 
+Congrats your legal page is now available at (might take a few minutes): 
 
 https://legalpage.org/YOUR-DOMAIN.COM
 
