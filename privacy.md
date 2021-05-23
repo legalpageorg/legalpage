@@ -153,7 +153,7 @@ The security of your data is important to us but remember that no method of tran
 method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect
 your Personal Data, we cannot guarantee its absolute security.
 
-#### Our Policy on - Do Not Track - Signals under the California Online Protection Act (CalOPPA)
+#### Our Policy on 'Do Not Track' Signals under the California Online Protection Act (CalOPPA)
 We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to
 inform websites that you do not want to be tracked.
 You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
