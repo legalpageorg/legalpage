@@ -1,7 +1,6 @@
 home:
-  name: Legal Page
+  name: Awesome Company
   logo: https://static.legalpage.org/images/legalpage.png # 264px * 80px
-  description: Your legal page served from git
   website: "https://legalpage.org"
   
 header: 
@@ -31,4 +30,10 @@ pages:
 placeholder:
  SERVICE: https://legalpage.org
  EMAIL: mail@legalpage.org
- COMPANY: Awesome Company GmbH
+ COMPANY: Awesome Company
+ STREET: 1 Market St
+ ZIP: CA 94103
+ CITY: San Francisco
+ COUNTRY: USA
+ COMPANY_NUMBER: 123456789
+ VAT_NUMBER: 123456789
