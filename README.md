@@ -6,7 +6,7 @@
 * Give your customer full transparency on updates.
 
 ## How?
-Follow these steps to add a legal page to your project.
+Follow these steps to create your legal page.
 
 ### 1. Fork this repository
 https://github.com/legalpageorg/legalpage
