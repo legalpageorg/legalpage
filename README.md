@@ -3,7 +3,7 @@
 * Because creating a legal page sucks. 😜
 * Host a good-looking legal page in seconds.
 * Community-maintained templates.
-* Give your customer full transparency on updates.
+* Give your user full transparency on updates.
 
 ## How?
 Follow these steps to create your legal page.
