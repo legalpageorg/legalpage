@@ -1,7 +1,9 @@
 ## Why?
-![](https://static.legalpage.org/images/legalpage.png)
 
-Because creating a legal page sucks.
+* Because creating a legal page sucks. 😜
+* Host a good looking legal page in seconds.
+* Use our templates.
+* Give your customer full transparency on updates.
 
 ## How?
 Follow these steps to add a legal page to your project.
@@ -26,13 +28,15 @@ Value: YOUR REPOSITORY URL (eg. https://github.com/legalpageorg/legalpage)
 ### 3. Modify the .md and the config.yaml files
 You can freely modify the templates and even add additional pages to your legal page.
 
-
-
 ## Done 🎉
 
 Congrats your legal page is now available at (might take a few miutes): 
 
 https://legalpage.org/YOUR-DOMAIN.COM
+
+## Example
+
+https://legalpage.org/unicornsurvey.com
 
 
 
