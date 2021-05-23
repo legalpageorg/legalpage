@@ -35,7 +35,7 @@ Congrats your legal page is now available at (might take a few minutes):
 
 https://legalpage.org/YOUR-DOMAIN.COM
 
-### Sponsors
+## Sponsors
 
 https://legalpage.org/unicornsurvey.com
 
