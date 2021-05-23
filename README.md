@@ -27,7 +27,7 @@ Value: YOUR REPOSITORY URL (eg. https://github.com/legalpageorg/legalpage)
 
 
 ### 3. Modify the .md and the config.yaml files
-You can freely modify the templates and even add additional pages to your legal page.
+You can freely modify the templates and even add additional pages and placeholders to your legal page.
 
 ## Done 🎉
 
