@@ -1,6 +1,6 @@
 ## What?
 
-Legalpage.org is a fully hosted web service to host your privacy, terms, imprint, and cookie pages (legal pages).  
+Legalpage.org is a web service to fully host your privacy, terms, imprint, and cookie pages (legal pages).  
 At the base of every legal page are markdown files. We have added a very simple placeholder syntax and a config.yaml file which can be used to customize the pages to your needs.
 Let's build an ecosystem of template files that fit every use case.  
 
