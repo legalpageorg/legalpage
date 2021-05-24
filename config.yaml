@@ -30,12 +30,12 @@ pages:
   file: imprint.md
 
 placeholder:
- SERVICE: https://legalpage.org
- EMAIL: mail@legalpage.org
- COMPANY: Awesome Company
- STREET: 1 Market St
- ZIP: CA 94103
- CITY: San Francisco
- COUNTRY: USA
- COMPANY_NUMBER: 123456789
- VAT_NUMBER: 123456789
+  SERVICE: https://legalpage.org
+  EMAIL: mail@legalpage.org
+  COMPANY: Awesome Company
+  STREET: 1 Market St
+  ZIP: CA 94103
+  CITY: San Francisco
+  COUNTRY: USA
+  COMPANY_NUMBER: 123456789
+  VAT_NUMBER: 123456789
