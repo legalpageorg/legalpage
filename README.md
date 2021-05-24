@@ -1,3 +1,9 @@
+## What?
+
+Legalpage.org is a fully hosted web service to host your privacy, terms, imprint, and cookie pages (legal pages).  
+At the base of every legal page are markdown files. We have added a very simple placeholder syntax and a config.yaml file which can be used to customize the pages to your needs.
+Let's build an ecosystem of template files that fit every use case.  
+
 ## Why?
 
 * Because creating a legal page sucks. 😜
@@ -35,7 +41,7 @@ Congrats your legal page is now available at (might take a few minutes):
 
 https://legalpage.org/YOUR-DOMAIN.COM
 
-## Sponsors
+## Examples
 
 https://legalpage.org/unicornsurvey.com
 
