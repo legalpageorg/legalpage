@@ -2,7 +2,8 @@
 
 Legalpage.org is a free web service to host your privacy, terms, imprint, and cookie pages (legal pages).  
 At the base of every legal page are markdown files. We have added a very simple placeholder syntax and a config.yaml file which can be used to customize the pages to your needs.  
-You're up and running with three simple steps: Fork this repo, add a txt record to your domain and modify the config file.  
+You're up and running with three simple steps:  
+Fork this repo, add a txt record to your domain and modify the config file.  
 Let's build an ecosystem of template files that fit every use case.  
 
 ## Why?
