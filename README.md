@@ -21,7 +21,7 @@ https://github.com/legalpageorg/legalpage
 
 ### 2. Verify ownership of your domain
 Every legal page is bound to a domain.   
-To verify that you own your domain create a TXT record that points to your legal page repository.   
+To verify that you own a domain create a TXT record that points to your legal page repository.   
 
 Host: legalpage   
 Value: YOUR REPOSITORY URL (eg. https://github.com/legalpageorg/legalpage)
