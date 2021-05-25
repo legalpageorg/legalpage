@@ -13,7 +13,7 @@ Fork this repo, add a txt record to your domain and modify the config file.
 * Give your user full transparency on updates.
 
 ## How?
-Follow these steps to create your legal page.
+Follow these steps to create your legal page:
 
 ### 1. Fork this repository
 https://github.com/legalpageorg/legalpage
